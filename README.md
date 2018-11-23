@@ -1,8 +1,6 @@
 # Install
     > npm install
 
-The API used in this example is a Node.js express API.
-
 # Run
     > npm run dev
     
